@@ -1,0 +1,18 @@
+Solve these questions after completing video lectures.
+
+1) A complete menu driven program on each topic e.g- On Array, Linked list etc.
+2) Searching of key whether element exists in array or not.
+3) Delete data by value
+4) Update data by value
+5) Sorting of array
+6) Dynamics memory allocation of array for size defining.
+7) Min and Max element from array.
+8) Second largest element in array.
+10) Find Duplicate element from the array.
+11) Reverse an array.
+12) Wap to store name and salary of n employees of a company by using structure then print name of 2nd highest salary paid employee
+
+
+
+<------IMPORTANT TERMS------------------>
+1) Linked List is a self referential data structure, Only sequential access is possible.

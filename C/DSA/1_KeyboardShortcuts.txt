@@ -1,0 +1,2 @@
+Switch between editor and terminal: ctrl+`  and  ctrl + 1
+Switch between Chrome tabs: ctrl + shift + tabs

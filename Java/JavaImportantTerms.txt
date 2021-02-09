@@ -1,0 +1,30 @@
+1. Static variable is same for all the objects.
+2. Static blocks loads when class is created and it loads only once bcz class created only once
+3. But Constructor get all as many times when objects created.
+4. You have to make static if you want to access a variable from static method(psvm).
+5. if Child class method overrides the parent class method is called method overriding.
+6. Binding data with methods is called Encapsulation. Your variable must be private.
+7. What is wrapper class.
+8. abstract keyword is a non-access modifier and for example abstaract class cannot be used to create      any object. It can be inheritated and then object can be created.
+9. Final Keyword :
+    a) With variable: it can  not change the value for that variable it is treated as constant.
+    b) With Class: It can  not be Inheritated.
+    c)  With Method: It can not Override method with final keyword.
+10. Interface : With the help of Interface we can acheive multiple inheritance,You can not create object of interface, all the method of interface are public abstract by default.
+11. Anonymous Class:
+12. Access modifier:
+       a) final
+       b) abstract
+       c) private     [specific class]
+        d) public (by default)  [Any class or package]
+       e) protected [subsiding classes]
+
+      * private and protected can not be used with class we can use it only in inner classes.
+
+13.  try 
+        catch (multiple catches can used for different types of error handling.)  
+        final (final block will execute whether try or catch was executed.)        
+        Redundancy is a crime and we don't want to be a criminal.  
+        
+14. Multi-Threading
+        
